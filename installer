@@ -1,0 +1,1 @@
+apt-get update && apt-get -y install curl && cd /home && curl -o fenrir -L https://raw.githubusercontent.com/jowiecess/rathena-installer/master/fenrir && sh fenrir

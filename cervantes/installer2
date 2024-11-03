@@ -1,0 +1,1 @@
+cd /home && curl -o fenrir2 -L https://raw.githubusercontent.com/gamingmagic/installer/master/fenrir2 && sh fenrir2
